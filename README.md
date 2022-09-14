@@ -9,7 +9,7 @@ Just a random mini golf game i made :) Please help me i am very bored
  - Make sure you have pygame installed
  - just run the Main.py file
  
-## How to run option without python installed **COMING SOON**
- - Go to the releases tab
+## How to run option without python installed
+ - Go to the Packages tab
  - Download the Game.exe
  - Run the Game.exe
